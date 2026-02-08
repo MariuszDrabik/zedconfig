@@ -1,0 +1,105 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `zed: Open Default Settings` command
+// from the command palette
+{
+  "git_panel": {
+    "tree_view": false
+  },
+  "colorize_brackets": true,
+  "icon_theme": "Material Icon Theme",
+  "agent_servers": {
+    "github-copilot": {
+      "type": "registry",
+    },
+  },
+  "edit_predictions": {
+    "provider": "copilot",
+  },
+  "telemetry": {
+    "metrics": false,
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "theme": {
+    "mode": "dark",
+    "light": "Gruvbox Light",
+    "dark": "Darcula Dark - Okkano Version",
+  },
+  "experimental.theme_overrides": {
+    "accents": ["#E8BA36", "#54A857"],
+    "syntax": {
+      "comment": {
+        "color": "#7a7a7a",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "constant": {
+        "color": "#937dff",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "function": {
+        "color": "#f0be6e",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "keyword": {
+        "color": "#d97934",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "number": {
+        "color": "#99c2ff",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "operator": {
+        "color": "#6aa68c",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "property": {
+        "color": "#bd87c9",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "punctuation.bracket": {
+        "color": "#fcd247",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "punctuation.delimiter": {
+        "color": "#7a7a7a",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "string": {
+        "color": "#63945c",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "tag": {
+        "color": "#f0be6e",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "type": {
+        "color": "#8783DEFF",
+        "font_style": null,
+        "font_weight": null,
+      },
+      "variable": {
+        "color": "#dedede",
+        "font_style": null,
+        "font_weight": null,
+      },
+    },
+  },
+
+  "wrap_guides": [80],
+}
