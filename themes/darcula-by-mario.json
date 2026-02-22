@@ -63,7 +63,7 @@
         "editor.active_line_number": "#cbcccd",
         "editor.hover_line_number": "#a1a2a5",
         "editor.invisible": "#666767ff",
-        "editor.wrap_guide": "#bfbdb60d",
+        "editor.wrap_guide": "#544e47",
         "editor.active_wrap_guide": "#bfbdb61a",
         "editor.document_highlight.read_background": "#5ac1fe1a",
         "editor.document_highlight.write_background": "#66676766",
